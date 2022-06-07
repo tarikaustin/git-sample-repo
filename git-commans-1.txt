@@ -1,0 +1,8 @@
+git status
+git init
+git config --global user.name "tarikaustin"
+git config --global user.email "tarikaustin@live.fr"
+git add
+git commit -m ""
+git log
+git diff <filename>
