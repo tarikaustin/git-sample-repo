@@ -1,4 +1,4 @@
-git status
+git status-> status of the git repository
 git init
 git config --global user.name "tarikaustin"
 git config --global user.email "tarikaustin@live.fr"
